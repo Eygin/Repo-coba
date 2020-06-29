@@ -1,4 +1,3 @@
-Bismillah belajar git :)
 
                             <div class="comment-form" style="background: #eaeaea">
               <h4 style="font-size: 22px; font-weight: 550;">Review Form</h4>
