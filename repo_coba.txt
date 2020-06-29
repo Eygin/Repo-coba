@@ -1,1 +1,13 @@
 Bismillah belajar git :)
+
+                            <div class="comment-form" style="background: #eaeaea">
+              <h4 style="font-size: 22px; font-weight: 550;">Review Form</h4>
+              <form>
+                <div class="form-inline">
+                  <div class="form-group col-lg-6 col-md-6 name">
+                    <input type="text" class="form-control" id="name" placeholder="Masukan Nama" style="border-radius: 10px;height: 50px;" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Masukan Nama'">
+                  </div>
+                  <div class="form-group col-lg-6 col-md-6 email">
+                    <input type="email" class="form-control" id="email" placeholder="Masukan alamat email" onfocus="this.placeholder = ''" style="border-radius: 10px;height: 50px;" onblur="this.placeholder = 'Masukan alamat email'">
+                  </div>
+                </div>
